@@ -3,7 +3,9 @@ header{
     font-family: "Raleway", sans-serif;
     font-weight: bolder;
 }
-
+.texte-sur-image{
+    background-image: url("./img/3.jpg");
+}
 .color-green{
     color:#71d1d3;
 }
