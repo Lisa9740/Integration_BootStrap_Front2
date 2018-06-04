@@ -23,13 +23,20 @@ header{
 .width-80{
     width: 80%;
 }
-hr{
+.barre{
     width: 30%;
     color:#71d1d3;
+   
 }
 .darkblue{
 background-color: #081e5b;
 }
 .bg-grey{
     background-color: #f2f5f8;
+}
+.img-slide{
+    width: 25%;
+}
+.shadow-custom{
+
 }
