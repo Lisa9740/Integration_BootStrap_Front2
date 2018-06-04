@@ -11,6 +11,9 @@ header{
 .color-green{
     color:#71d1d3;
 }
+.color-green2{
+    color:#7be2c2;
+}
 .color-blue{
     color:#0c2e8a;
 }
@@ -24,8 +27,9 @@ header{
     width: 80%;
 }
 .barre{
-    width: 30%;
+    border: 2px solid #71d1d3; 
     color:#71d1d3;
+    width: 60px;
    
 }
 .darkblue{
@@ -37,6 +41,6 @@ background-color: #081e5b;
 .img-slide{
     width: 25%;
 }
-.shadow-custom{
-
+.style-border{
+    border-right: 1px solid grey;
 }
